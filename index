@@ -1,0 +1,26 @@
+
+<html>
+ <head>
+
+  <title>Produtron</title>
+ </head>
+
+<style>
+body 	{background-color: Powderblue;} 
+h1 	{color: Blue;}
+p	{color: beige;}
+	<body> 
+
+ 
+ 
+  		
+  
+  			<p> <b>Produtron is a</b>
+</p> <br> <h1>PHP playground</h1> <br><p>for<br> Patricio Johnson Sintes </b> </p>
+  
+ 			 
+ 		</font>
+	
+	</body>
+</style>
+</html>
