@@ -2,7 +2,7 @@
 <html>
  <head>
   <title>Produtron</title>
- </head>
+
 
 <style>
 	body 	{background-color: Powderblue;} 
@@ -11,7 +11,8 @@
 	p.sansserif {
     font-family: Arial, Helvetica, sans-serif;
 }
-	</style>	
+	</style>
+	 </head>
 	<body> 
 
   			<p class="sansserif"> <b>Produtron is a</b>
