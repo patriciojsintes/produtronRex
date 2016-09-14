@@ -14,9 +14,9 @@
 	</style>	
 	<body> 
 
-  			<p> <b>Produtron is a</b>
+  			<p class="sansserif"> <b>Produtron is a</b>
   			
-</p> <br> <h1>JavaScript playground</h1> <br> <p> for <br> Patricio Johnson Sintes </b> </p>
+</p> <br> <h1>JavaScript playground</h1> <br> <p  class="sansserif"> for <br> Patricio Johnson Sintes </b> </p>
   
  		 
  		</font>
