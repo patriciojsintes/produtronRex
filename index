@@ -3,7 +3,7 @@
  <head>
   <title>Produtron</title>
 
-
+<script src="patriciojsintes/Languages.js"></script>
 <style>
 	body 	{background-color: Powderblue;} 
 	h1 	{color: Blue;}
@@ -14,13 +14,15 @@
 	</style>
 	 </head>
 	<body> 
+	<div>
 
   			<p class="sansserif"> <b>Produtron is a</b>
   			
-</p> <br> <h1>JavaScript playground</h1> <br> <p  class="sansserif"> for <br> Patricio Johnson Sintes </b> </p>
-  
+</p> <br> <h1>JavaScript playground</h1> <br> 
+<p  class="sansserif"> for <br> Patricio Johnson Sintes </b> </p>
+  </div>
  		 
- 		</font>
+ 	
 	
 	</body>
 
